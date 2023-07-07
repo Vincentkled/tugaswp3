@@ -8,7 +8,7 @@
     x = <?= $x; ?>
     y = <?= $y; ?>
     Hasil penjumlahan dari WebProgramming II ialah <?=
-    $x . "+" . $y . "=" . $hasil ?>
+    $x . "+" . $y . "=" . $hasil; ?>
 </body>
 
 </html>
